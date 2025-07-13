@@ -1,0 +1,24 @@
+.product-detail__image {
+  border-radius: 8px;
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.product-detail__title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.product-detail__description {
+  margin-top: 1rem;
+  color: #555;
+}
+
+.product-detail__price {
+  font-size: 1.25rem;
+  margin-top: 1rem;
+}
+
+.product-detail__btn {
+  margin-top: 1.5rem;
+}
